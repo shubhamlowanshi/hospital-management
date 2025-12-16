@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create axios instance with base configuration
 const api = axios.create({
-  baseURL: "https://my-auth-api.onrender.com/api/test"
+  baseURL: "https://hospital-management-09e8.onrender.com"
 ,
   headers: {
     'Content-Type': 'application/json',
